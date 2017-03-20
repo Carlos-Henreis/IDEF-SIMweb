@@ -1,0 +1,11 @@
+alreadyConnected=Nós já conectados
+containsValidationErrors=Contém erros de validação
+updatingDocument=Atualizando o documento. Por favor aguarde...
+updatingSelection=Atualizando seleção. Por favor aguarde...
+collapse-expand=Reduzir/Expandir
+doubleClickOrientation=Clique duplo para alterar a orientação
+close=Fechar
+error=Erro
+done=Feito
+cancel=Cancelar
+ok=OK
